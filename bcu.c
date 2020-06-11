@@ -38,7 +38,7 @@
 #ifdef linux
 #include <unistd.h>
 #include <sys/ioctl.h>
-#include "ftdi.h"
+#include <libftdi1/ftdi.h>
 #endif
 
 //common library for both OS

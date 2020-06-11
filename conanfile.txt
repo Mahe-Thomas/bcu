@@ -1,0 +1,9 @@
+[requires]
+libyaml/0.2.2@bincrafters/stable
+libftdi/1.2@
+libusb/1.0.23
+zlib/1.2.11
+
+[generators]
+cmake_paths
+cmake_find_package

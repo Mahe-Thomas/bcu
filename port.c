@@ -35,7 +35,7 @@
 
 #ifdef linux
 #include <unistd.h>
-#include <ftdi.h>
+#include <libftdi1/ftdi.h>
 #include <libusb.h>
 #endif
 
